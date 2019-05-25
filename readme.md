@@ -1,4 +1,8 @@
-# Readme file
+# # Readme file
 
-### How to unzip zip file with terminal
-´sudo apt-get install unzip
+### How to unzip file in terminal
+Commands:
+
+`sudo apt-get install unzip`
+
+`unzip (filename.zip)`
